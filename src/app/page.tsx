@@ -44,7 +44,7 @@ export default function Home() {
             { text: "Plan Your Visit", href: "visit" },
             { text: "Learn More", href: "about" }
           ]}
-          imageSrc="https://images.pexels.com/photos/5534598/pexels-photo-5534598.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+          imageSrc="https://images.pexels.com/photos/322207/pexels-photo-322207.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
           imageAlt="Tallinn Old Town medieval towers and cobblestone streets"
           imagePosition="right"
         />
