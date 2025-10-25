@@ -37,7 +37,7 @@ export default function Home() {
       <div id="hero" data-section="hero">
         <HeroSplit
           title="Discover Estonia"
-          description="Experience the perfect blend of medieval charm and digital innovation in the heart of the Baltics"
+          description="Experience the perfect blend of medieval charm and digital innovation in the heart of the Baltics and estonia"
           tag="Northern Europe"
           tagIcon={MapPin}
           buttons={[
